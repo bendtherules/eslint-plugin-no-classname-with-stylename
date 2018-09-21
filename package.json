@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-no-classname-with-stylename",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "While using CSS Modules, disallow using (non-conditional / string) classNames in a JSX tag if it already has a styleName",
   "keywords": [
     "eslint",
@@ -27,7 +27,7 @@
     "eslint": "~3.9.1",
     "mocha": "^3.1.2"
   },
-  
+
   "engines": {
     "node": ">=0.10.0"
   },
